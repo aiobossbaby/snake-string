@@ -92,7 +92,7 @@ async def spin(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 def main():
     import os
-    TOKEN = os.getenv("BOT_TOKEN")  # Replace with your bot token or use env var
+    TOKEN = os.getenv("8366451382:AAE-0k-uObwUokQ_FXYxnakV38IDKR-rioo")  # Replace with your bot token or use env var
 
     app = ApplicationBuilder().token(TOKEN).build()
 
